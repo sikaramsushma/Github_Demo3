@@ -12,7 +12,6 @@ public class classA {
 	public int getB(){
 		System.out.println("test");
 		System.out.println("test branch");
-		System.out.println("test branch to dele");
 
 		return b;
 		
