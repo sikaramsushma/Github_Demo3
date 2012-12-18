@@ -11,6 +11,7 @@ public class classA {
 	
 	public int getB(){
 		System.out.println("test");
+		System.out.println("test branch");
 		return b;
 		
 	}
