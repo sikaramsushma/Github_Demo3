@@ -10,6 +10,7 @@ public class classA {
 	}
 	
 	public int getB(){
+		System.out.println("test");
 		return b;
 		
 	}
